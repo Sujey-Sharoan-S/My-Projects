@@ -3,6 +3,7 @@
 int main()
 {
   printf("Hello, World\n");
-  printf("My Name is Sujey Sharoan and I'm An Embedded Engineer");
+  printf("My Name is Sujey Sharoan S & I'm an Embedded Engineer\n");
+
   return 0;
 }
